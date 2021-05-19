@@ -7,3 +7,5 @@ print (list[1:3])
 print (list[2:])
 print (tinylist * 2)
 print (list+tinylist)
+print ("len of list is",len(list))
+
